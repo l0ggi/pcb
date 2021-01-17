@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\marc\OneDrive\Projekte\l0ggi\pcb\cad\basic_v100_2021-01-03\l0ggi.kicad_sch</source>
+    <date>03.01.2021 22:17:32</date>
+    <tool>Eeschema (5.99.0-7519-ga8269b6380)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Loggi basic PCB</title>
+        <company>pretzelprinter.de</company>
+        <rev>100</rev>
+        <date>2021-01-03</date>
+        <source>l0ggi.kicad_sch</source>
+        <comment number="1" value="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"/>
+        <comment number="2" value="Licensed by CC BY-NC-SA"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>f2ead61d-c389-47a7-9a37-461ad7196e61</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1a11dbf2-6b6a-4978-a982-692c5481e70b</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10µF 25V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C96446</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C96446"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1a9f26d9-3967-4886-b79c-a3b00915faa7</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>bb5b4f03-34bf-40b7-a6ca-93f9b08762bb</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>86869ba9-fa12-447b-8df7-8475752ff93a</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53527cf0-db72-4b57-8923-57410bd150e0</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00409719-958c-4268-84ff-2c08361ec811</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0ffccc1a-4e3d-44bc-99b4-1cf1675dc092</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N5819</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C191023</field>
+      </fields>
+      <libsource lib="Diode" part="1N5819" description="40V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="LCSC" value="C191023"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>a2c3d199-ecc1-4352-bdef-b9478d6ff42e</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>OLED_I2C_Header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Display_Graphic" part="OLED_I2C_Header" description=""/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0995e5a7-c3bb-4734-88e7-80d32e7e3ff5</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74793b99-887a-48c8-a339-46759afb8a7b</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9ef37acb-637a-4a56-8fa6-6f3fee769e60</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>218eb1ad-3635-4687-ab59-41a89e62d493</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>eabe83c9-94ee-43ee-8769-502e6de4be7c</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2b7605a8-d22b-4272-95d2-d9a7e1acaacb</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>PRG_Header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>fe73eac5-a43f-49b5-99c3-5bae7eb72e64</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>V_Source</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>a12b3fe7-c183-4958-b06d-9c9a489af877</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>EXT_HEADER_2</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>a8321002-e7be-45a9-aa88-114cde50d2cc</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>EXT_HEADER_1</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>93581777-935a-48ec-9ced-f8dbe5f7ac3e</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Micro_SD_Card</value>
+      <footprint>Connector_Card:microSD_HC_Wuerth_693072010801</footprint>
+      <datasheet>http://katalog.we-online.de/em/datasheet/693072010801.pdf</datasheet>
+      <fields>
+        <field name="Source">https://www.digikey.de/product-detail/de/w%C3%BCrth-elektronik/693072010801/732-3820-1-ND/3124605</field>
+      </fields>
+      <libsource lib="Connector" part="Micro_SD_Card" description="Micro SD Card Socket"/>
+      <property name="Source" value="https://www.digikey.de/product-detail/de/w%C3%BCrth-elektronik/693072010801/732-3820-1-ND/3124605"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>d8934183-5c79-4f81-a8a3-5dc465a49848</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>USB_C_Plug_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_GCT_USB4085</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="Source">https://www.digikey.de/product-detail/de/gct/USB4085-GF-A/2073-USB4085-GF-ACT-ND/9859733</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Plug_USB2.0" description="USB 2.0-only Type-C Plug connector"/>
+      <property name="Source" value="https://www.digikey.de/product-detail/de/gct/USB4085-GF-A/2073-USB4085-GF-ACT-ND/9859733"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>35a85cd0-2aa8-4841-9777-25ceb9e12481</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>S8050</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.unisonic.com.tw/datasheet/S8050.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2146</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="S8050" description="0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"/>
+      <property name="LCSC" value="C2146"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>a1d61b94-519e-4c23-a72a-cdaa2d2d1a78</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>S8050</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.unisonic.com.tw/datasheet/S8050.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2146</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="S8050" description="0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"/>
+      <property name="LCSC" value="C2146"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>eb122276-4073-4668-8221-5ee7941aaed2</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23140</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23140"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>a718e57b-e5a0-43ae-88bf-cd9d0348a40a</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23140</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23140"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6a02c05d-e8b1-4dd3-a4c0-4832837ab283</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>56k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23206</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23206"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>65370853-c4ba-40c7-9f3a-298ad9ef14f3</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4c2eb29b-eaf9-4b86-ab4d-d8979e0594bf</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>b9f59017-5d75-4c58-887c-827362267cde</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>313fe6fb-a6e9-4923-8de3-dd7a8170fed6</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>a651eb3b-e74c-43ea-bbc9-fa45c23a31a0</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5801d7fc-ad04-44b6-ae4b-128e3745423d</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>27158045-66ac-4e4f-843f-29e7e7de8b46</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5f3c4ced-c2af-47c4-9b8c-1857d027ddd6</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23179</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23179"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>d2caa953-f600-4a32-a2a5-2a46ee17dfdc</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>VCONN</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>b2e7ef84-3982-416a-be91-046e23b45ef8</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>CP2102N-A01-GQFN28</value>
+      <footprint>Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm</footprint>
+      <datasheet>https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C6568</field>
+      </fields>
+      <libsource lib="Interface_USB" part="CP2102N-A01-GQFN28" description="USB to UART master bridge, QFN-28"/>
+      <property name="LCSC" value="C6568"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0a57864c-ea40-467a-958c-3353aed6f833</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>AZ1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AZ1117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C6186</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AZ1117-3.3" description="1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263"/>
+      <property name="LCSC" value="C6186"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>ecdd4d37-b5a5-45f1-afdb-d56fbf0e4864</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>ESP-12F</value>
+      <footprint>RF_Module:ESP-12E</footprint>
+      <datasheet>http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C82891</field>
+      </fields>
+      <libsource lib="RF_Module" part="ESP-12F" description="802.11 b/g/n Wi-Fi Module"/>
+      <property name="LCSC" value="C82891"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>bcc29143-4a89-416a-ad82-b711f936f1bb</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>DHT22</value>
+      <footprint>Sensor:Aosong_DHT11_5.5x12.0_P2.54mm</footprint>
+      <datasheet>http://akizukidenshi.com/download/ds/aosong/DHT11.pdf</datasheet>
+      <libsource lib="Sensor" part="DHT11" description="Temperature and humidity module"/>
+      <property name="Schaltplanname" value=""/>
+      <property name="Dateiname Blatt" value="l0ggi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>c6550233-eeff-4899-aa1b-bdc700c6466b</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Micro_SD_Card">
+      <description>Micro SD Card Socket</description>
+      <docs>http://katalog.we-online.de/em/datasheet/693072010801.pdf</docs>
+      <footprints>
+        <fp>microSD*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Micro_SD_Card</field>
+        <field name="Datasheet">http://katalog.we-online.de/em/datasheet/693072010801.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAT2" type="BiDi"/>
+        <pin num="2" name="DAT3/CD" type="BiDi"/>
+        <pin num="3" name="CMD" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="CLK" type="input"/>
+        <pin num="6" name="VSS" type="power_in"/>
+        <pin num="7" name="DAT0" type="BiDi"/>
+        <pin num="8" name="DAT1" type="BiDi"/>
+        <pin num="9" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Plug_USB2.0">
+      <description>USB 2.0-only Type-C Plug connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Plug*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_C_Plug_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="power_in"/>
+        <pin num="A4" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC" type="BiDi"/>
+        <pin num="A6" name="D+" type="BiDi"/>
+        <pin num="A7" name="D-" type="BiDi"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="VCONN" type="BiDi"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x07">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5819">
+      <description>40V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88525/1n5817.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5819</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Display_Graphic" part="OLED_I2C_Header">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">OLED_I2C_Header</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="V+" type="input"/>
+        <pin num="3" name="SCK" type="input"/>
+        <pin num="4" name="SDA" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="CP2102N-A01-GQFN28">
+      <description>USB to UART master bridge, QFN-28</description>
+      <docs>https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*5x5mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CP2102N-A01-GQFN28</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm</field>
+        <field name="Datasheet">https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~DCD" type="input"/>
+        <pin num="2" name="~RI~/CLK" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="D+" type="BiDi"/>
+        <pin num="5" name="D-" type="BiDi"/>
+        <pin num="6" name="VDD" type="passive"/>
+        <pin num="7" name="REGIN" type="power_in"/>
+        <pin num="8" name="VBUS" type="input"/>
+        <pin num="9" name="~RSTb" type="input"/>
+        <pin num="10" name="NC" type="NotConnected"/>
+        <pin num="11" name="~SUSPENDb" type="output"/>
+        <pin num="12" name="SUSPEND" type="output"/>
+        <pin num="13" name="CHREN" type="output"/>
+        <pin num="14" name="CHR1" type="output"/>
+        <pin num="15" name="CHR0" type="output"/>
+        <pin num="16" name="~WAKEUP~/GPIO.3" type="BiDi"/>
+        <pin num="17" name="RS485/GPIO.2" type="BiDi"/>
+        <pin num="18" name="~RXT~/GPIO.1" type="BiDi"/>
+        <pin num="19" name="~TXT~/GPIO.0" type="BiDi"/>
+        <pin num="20" name="GPIO.6" type="BiDi"/>
+        <pin num="21" name="GPIO.5" type="BiDi"/>
+        <pin num="22" name="GPIO.4" type="BiDi"/>
+        <pin num="23" name="~CTS" type="input"/>
+        <pin num="24" name="~RTS" type="output"/>
+        <pin num="25" name="RXD" type="input"/>
+        <pin num="26" name="TXD" type="output"/>
+        <pin num="27" name="~DSR" type="input"/>
+        <pin num="28" name="~DTR" type="output"/>
+        <pin num="29" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP-12F">
+      <description>802.11 b/g/n Wi-Fi Module</description>
+      <docs>http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP-12F</field>
+        <field name="Footprint">RF_Module:ESP-12E</field>
+        <field name="Datasheet">http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~RST" type="input"/>
+        <pin num="2" name="ADC" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="GPIO16" type="BiDi"/>
+        <pin num="5" name="GPIO14" type="BiDi"/>
+        <pin num="6" name="GPIO12" type="BiDi"/>
+        <pin num="7" name="GPIO13" type="BiDi"/>
+        <pin num="8" name="VCC" type="power_in"/>
+        <pin num="9" name="CS0" type="input"/>
+        <pin num="10" name="MISO" type="BiDi"/>
+        <pin num="11" name="GPIO9" type="BiDi"/>
+        <pin num="12" name="GPIO10" type="BiDi"/>
+        <pin num="13" name="MOSI" type="BiDi"/>
+        <pin num="14" name="SCLK" type="BiDi"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="GPIO15" type="BiDi"/>
+        <pin num="17" name="GPIO2" type="BiDi"/>
+        <pin num="18" name="GPIO0" type="BiDi"/>
+        <pin num="19" name="GPIO4" type="BiDi"/>
+        <pin num="20" name="GPIO5" type="BiDi"/>
+        <pin num="21" name="GPIO3/RXD" type="BiDi"/>
+        <pin num="22" name="GPIO1/TXD" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AZ1117-3.3">
+      <description>1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AZ1117.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AZ1117-3.3</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AZ1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor" part="DHT11">
+      <description>Temperature and humidity module</description>
+      <docs>http://akizukidenshi.com/download/ds/aosong/DHT11.pdf</docs>
+      <footprints>
+        <fp>Aosong*DHT11*5.5x12.0*P2.54mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DHT11</field>
+        <field name="Footprint">Sensor:Aosong_DHT11_5.5x12.0_P2.54mm</field>
+        <field name="Datasheet">http://akizukidenshi.com/download/ds/aosong/DHT11.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="IO" type="BiDi"/>
+        <pin num="3" name="NC" type="NotConnected"/>
+        <pin num="4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="S8050">
+      <description>0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92</description>
+      <docs>http://www.unisonic.com.tw/datasheet/S8050.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">S8050</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.unisonic.com.tw/datasheet/S8050.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Diode.lib</uri>
+    </library>
+    <library logical="Display_Graphic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Display_Graphic.lib</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Interface_USB.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>C:\Program Files\KiCad\share\kicad\library/RF_Module.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Regulator_Linear.lib</uri>
+    </library>
+    <library logical="Sensor">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Sensor.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Transistor_BJT.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C2" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="D2" pin="2" pinfunction="V+"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1"/>
+      <node ref="J5" pin="4" pinfunction="VDD"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="U1" pin="6" pinfunction="VDD"/>
+      <node ref="U1" pin="7" pinfunction="REGIN"/>
+      <node ref="U2" pin="2" pinfunction="VO"/>
+      <node ref="U3" pin="8" pinfunction="VCC"/>
+      <node ref="U4" pin="1" pinfunction="VCC"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C1" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="D1" pin="2" pinfunction="A"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8"/>
+      <node ref="P1" pin="A4" pinfunction="VBUS"/>
+      <node ref="P1" pin="A9" pinfunction="VBUS"/>
+      <node ref="P1" pin="B4" pinfunction="VBUS"/>
+      <node ref="P1" pin="B9" pinfunction="VBUS"/>
+      <node ref="U1" pin="8" pinfunction="VBUS"/>
+      <node ref="U2" pin="3" pinfunction="VI"/>
+    </net>
+    <net code="3" name="/CTS">
+      <node ref="J1" pin="6" pinfunction="Pin_6"/>
+      <node ref="Q2" pin="1" pinfunction="E"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U1" pin="23" pinfunction="~CTS"/>
+    </net>
+    <net code="4" name="/RTS">
+      <node ref="J1" pin="5" pinfunction="Pin_5"/>
+      <node ref="Q1" pin="1" pinfunction="E"/>
+      <node ref="R5" pin="2"/>
+      <node ref="U1" pin="24" pinfunction="~RTS"/>
+    </net>
+    <net code="5" name="/USB_F_+">
+      <node ref="R1" pin="2"/>
+      <node ref="U1" pin="4" pinfunction="D+"/>
+    </net>
+    <net code="6" name="/USB_F_-">
+      <node ref="R2" pin="1"/>
+      <node ref="U1" pin="5" pinfunction="D-"/>
+    </net>
+    <net code="7" name="ACTIVE">
+      <node ref="U1" pin="11" pinfunction="~SUSPENDb"/>
+    </net>
+    <net code="8" name="ADC">
+      <node ref="J4" pin="2" pinfunction="Pin_2"/>
+      <node ref="U3" pin="2" pinfunction="ADC"/>
+    </net>
+    <net code="9" name="DHT">
+      <node ref="U3" pin="4" pinfunction="GPIO16"/>
+      <node ref="U4" pin="2" pinfunction="IO"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="D2" pin="1" pinfunction="GND"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1"/>
+      <node ref="J3" pin="8" pinfunction="Pin_8"/>
+      <node ref="J5" pin="6" pinfunction="VSS"/>
+      <node ref="J5" pin="9" pinfunction="SHIELD"/>
+      <node ref="P1" pin="A1" pinfunction="GND"/>
+      <node ref="P1" pin="A12" pinfunction="GND"/>
+      <node ref="P1" pin="B1" pinfunction="GND"/>
+      <node ref="P1" pin="B12" pinfunction="GND"/>
+      <node ref="P1" pin="S1" pinfunction="SHIELD"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U1" pin="29" pinfunction="GND"/>
+      <node ref="U1" pin="3" pinfunction="GND"/>
+      <node ref="U2" pin="1" pinfunction="GND"/>
+      <node ref="U3" pin="15" pinfunction="GND"/>
+      <node ref="U4" pin="4" pinfunction="GND"/>
+    </net>
+    <net code="11" name="GPIO0">
+      <node ref="J3" pin="2" pinfunction="Pin_2"/>
+      <node ref="Q2" pin="3" pinfunction="C"/>
+      <node ref="R8" pin="2"/>
+      <node ref="U3" pin="18" pinfunction="GPIO0"/>
+    </net>
+    <net code="12" name="GPIO2">
+      <node ref="J3" pin="5" pinfunction="Pin_5"/>
+      <node ref="R9" pin="2"/>
+      <node ref="U3" pin="17" pinfunction="GPIO2"/>
+    </net>
+    <net code="13" name="GPIO9">
+      <node ref="J4" pin="6" pinfunction="Pin_6"/>
+      <node ref="U3" pin="11" pinfunction="GPIO9"/>
+    </net>
+    <net code="14" name="GPIO10">
+      <node ref="J4" pin="7" pinfunction="Pin_7"/>
+      <node ref="U3" pin="12" pinfunction="GPIO10"/>
+    </net>
+    <net code="15" name="GPIO12">
+      <node ref="J4" pin="4" pinfunction="Pin_4"/>
+      <node ref="U3" pin="6" pinfunction="GPIO12"/>
+    </net>
+    <net code="16" name="GPIO13">
+      <node ref="J4" pin="5" pinfunction="Pin_5"/>
+      <node ref="U3" pin="7" pinfunction="GPIO13"/>
+    </net>
+    <net code="17" name="GPIO14">
+      <node ref="J4" pin="3" pinfunction="Pin_3"/>
+      <node ref="U3" pin="5" pinfunction="GPIO14"/>
+    </net>
+    <net code="18" name="GPIO15">
+      <node ref="J3" pin="6" pinfunction="Pin_6"/>
+      <node ref="R10" pin="2"/>
+      <node ref="U3" pin="16" pinfunction="GPIO15"/>
+    </net>
+    <net code="19" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2"/>
+    </net>
+    <net code="20" name="Net-(P1-PadA5)">
+      <node ref="P1" pin="A5" pinfunction="CC"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="21" name="Net-(P1-PadB5)">
+      <node ref="P1" pin="B5" pinfunction="VCONN"/>
+      <node ref="TP1" pin="1" pinfunction="1"/>
+    </net>
+    <net code="22" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="B"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="23" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2" pinfunction="B"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="24" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2"/>
+      <node ref="U3" pin="3" pinfunction="EN"/>
+    </net>
+    <net code="25" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="U3" pin="21" pinfunction="GPIO3/RXD"/>
+    </net>
+    <net code="26" name="RST">
+      <node ref="C5" pin="1"/>
+      <node ref="J3" pin="7" pinfunction="Pin_7"/>
+      <node ref="Q1" pin="3" pinfunction="C"/>
+      <node ref="R7" pin="2"/>
+      <node ref="U3" pin="1" pinfunction="~RST"/>
+    </net>
+    <net code="27" name="SCL">
+      <node ref="D2" pin="3" pinfunction="SCK"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3"/>
+      <node ref="U3" pin="20" pinfunction="GPIO5"/>
+    </net>
+    <net code="28" name="SDA">
+      <node ref="D2" pin="4" pinfunction="SDA"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4"/>
+      <node ref="U3" pin="19" pinfunction="GPIO4"/>
+    </net>
+    <net code="29" name="SD_CS">
+      <node ref="J5" pin="2" pinfunction="DAT3/CD"/>
+      <node ref="U3" pin="9" pinfunction="CS0"/>
+    </net>
+    <net code="30" name="SD_MISO">
+      <node ref="J5" pin="7" pinfunction="DAT0"/>
+      <node ref="U3" pin="10" pinfunction="MISO"/>
+    </net>
+    <net code="31" name="SD_MOSI">
+      <node ref="J5" pin="3" pinfunction="CMD"/>
+      <node ref="U3" pin="13" pinfunction="MOSI"/>
+    </net>
+    <net code="32" name="SD_SCL">
+      <node ref="J5" pin="5" pinfunction="CLK"/>
+      <node ref="U3" pin="14" pinfunction="SCLK"/>
+    </net>
+    <net code="33" name="UART_RX">
+      <node ref="J1" pin="4" pinfunction="Pin_4"/>
+      <node ref="R11" pin="2"/>
+      <node ref="U1" pin="25" pinfunction="RXD"/>
+    </net>
+    <net code="34" name="UART_TX">
+      <node ref="J1" pin="3" pinfunction="Pin_3"/>
+      <node ref="U1" pin="26" pinfunction="TXD"/>
+      <node ref="U3" pin="22" pinfunction="GPIO1/TXD"/>
+    </net>
+    <net code="35" name="USB_+">
+      <node ref="P1" pin="A6" pinfunction="D+"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="36" name="USB_-">
+      <node ref="P1" pin="A7" pinfunction="D-"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="37" name="no_connect_37">
+      <node ref="J5" pin="1" pinfunction="DAT2"/>
+    </net>
+    <net code="38" name="no_connect_38">
+      <node ref="J5" pin="8" pinfunction="DAT1"/>
+    </net>
+    <net code="39" name="no_connect_39">
+      <node ref="U1" pin="1" pinfunction="~DCD"/>
+    </net>
+    <net code="40" name="no_connect_40">
+      <node ref="U1" pin="10" pinfunction="NC"/>
+    </net>
+    <net code="41" name="no_connect_41">
+      <node ref="U1" pin="12" pinfunction="SUSPEND"/>
+    </net>
+    <net code="42" name="no_connect_42">
+      <node ref="U1" pin="13" pinfunction="CHREN"/>
+    </net>
+    <net code="43" name="no_connect_43">
+      <node ref="U1" pin="14" pinfunction="CHR1"/>
+    </net>
+    <net code="44" name="no_connect_44">
+      <node ref="U1" pin="15" pinfunction="CHR0"/>
+    </net>
+    <net code="45" name="no_connect_45">
+      <node ref="U1" pin="16" pinfunction="~WAKEUP~/GPIO.3"/>
+    </net>
+    <net code="46" name="no_connect_46">
+      <node ref="U1" pin="17" pinfunction="RS485/GPIO.2"/>
+    </net>
+    <net code="47" name="no_connect_47">
+      <node ref="U1" pin="18" pinfunction="~RXT~/GPIO.1"/>
+    </net>
+    <net code="48" name="no_connect_48">
+      <node ref="U1" pin="19" pinfunction="~TXT~/GPIO.0"/>
+    </net>
+    <net code="49" name="no_connect_49">
+      <node ref="U1" pin="2" pinfunction="~RI~/CLK"/>
+    </net>
+    <net code="50" name="no_connect_50">
+      <node ref="U1" pin="20" pinfunction="GPIO.6"/>
+    </net>
+    <net code="51" name="no_connect_51">
+      <node ref="U1" pin="21" pinfunction="GPIO.5"/>
+    </net>
+    <net code="52" name="no_connect_52">
+      <node ref="U1" pin="22" pinfunction="GPIO.4"/>
+    </net>
+    <net code="53" name="no_connect_53">
+      <node ref="U1" pin="27" pinfunction="~DSR"/>
+    </net>
+    <net code="54" name="no_connect_54">
+      <node ref="U1" pin="28" pinfunction="~DTR"/>
+    </net>
+    <net code="55" name="no_connect_55">
+      <node ref="U1" pin="9" pinfunction="~RSTb"/>
+    </net>
+    <net code="56" name="no_connect_56">
+      <node ref="U4" pin="3" pinfunction="NC"/>
+    </net>
+  </nets>
+</export>
